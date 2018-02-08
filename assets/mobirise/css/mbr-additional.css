@@ -62,12 +62,6 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
-.btn {
-  border-radius: 1.6em;
-}
-.mbr-subscribe .btn {
-  border-radius: 1.6em !important;
-}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -424,6 +418,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -530,11 +527,11 @@ h6,
   color: #ffffff;
 }
 #menu-39 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-39 .dropdown-item,
 #menu-39 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-39 .link:hover,
 #menu-39 .dropdown-item:hover,
@@ -649,11 +646,11 @@ h6,
   color: #ffffff;
 }
 #menu-3h .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-3h .dropdown-item,
 #menu-3h .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-3h .link:hover,
 #menu-3h .dropdown-item:hover,
@@ -739,11 +736,11 @@ h6,
   color: #ffffff;
 }
 #menu-3q .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-3q .dropdown-item,
 #menu-3q .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-3q .link:hover,
 #menu-3q .dropdown-item:hover,
@@ -829,11 +826,11 @@ h6,
   color: #ffffff;
 }
 #menu-3v .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-3v .dropdown-item,
 #menu-3v .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-3v .link:hover,
 #menu-3v .dropdown-item:hover,
@@ -919,11 +916,11 @@ h6,
   color: #ffffff;
 }
 #menu-40 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-40 .dropdown-item,
 #menu-40 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-40 .link:hover,
 #menu-40 .dropdown-item:hover,
@@ -1009,11 +1006,11 @@ h6,
   color: #ffffff;
 }
 #menu-46 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-46 .dropdown-item,
 #menu-46 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-46 .link:hover,
 #menu-46 .dropdown-item:hover,
@@ -1099,11 +1096,11 @@ h6,
   color: #ffffff;
 }
 #menu-4b .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-4b .dropdown-item,
 #menu-4b .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-4b .link:hover,
 #menu-4b .dropdown-item:hover,
@@ -1189,11 +1186,11 @@ h6,
   color: #ffffff;
 }
 #menu-4g .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-4g .dropdown-item,
 #menu-4g .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-4g .link:hover,
 #menu-4g .dropdown-item:hover,
@@ -1279,11 +1276,11 @@ h6,
   color: #ffffff;
 }
 #menu-4l .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-4l .dropdown-item,
 #menu-4l .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-4l .link:hover,
 #menu-4l .dropdown-item:hover,
@@ -1369,11 +1366,11 @@ h6,
   color: #ffffff;
 }
 #menu-4q .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-4q .dropdown-item,
 #menu-4q .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-4q .link:hover,
 #menu-4q .dropdown-item:hover,
@@ -1456,11 +1453,11 @@ h6,
   color: #ffffff;
 }
 #menu-4w .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-4w .dropdown-item,
 #menu-4w .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-4w .link:hover,
 #menu-4w .dropdown-item:hover,
@@ -1558,11 +1555,11 @@ h6,
   color: #ffffff;
 }
 #menu-55 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-55 .dropdown-item,
 #menu-55 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-55 .link:hover,
 #menu-55 .dropdown-item:hover,
@@ -1642,11 +1639,11 @@ h6,
   color: #ffffff;
 }
 #menu-5f .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-5f .dropdown-item,
 #menu-5f .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-5f .link:hover,
 #menu-5f .dropdown-item:hover,
@@ -1726,11 +1723,11 @@ h6,
   color: #ffffff;
 }
 #menu-5r .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-5r .dropdown-item,
 #menu-5r .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-5r .link:hover,
 #menu-5r .dropdown-item:hover,
@@ -1804,11 +1801,11 @@ h6,
   color: #ffffff;
 }
 #menu-31 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-31 .dropdown-item,
 #menu-31 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-31 .link:hover,
 #menu-31 .dropdown-item:hover,
@@ -1909,11 +1906,11 @@ h6,
   color: #ffffff;
 }
 #menu-64 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-64 .dropdown-item,
 #menu-64 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-64 .link:hover,
 #menu-64 .dropdown-item:hover,
@@ -1993,11 +1990,11 @@ h6,
   color: #ffffff;
 }
 #menu-6a .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-6a .dropdown-item,
 #menu-6a .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-6a .link:hover,
 #menu-6a .dropdown-item:hover,
@@ -2077,11 +2074,11 @@ h6,
   color: #ffffff;
 }
 #menu-6h .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-6h .dropdown-item,
 #menu-6h .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-6h .link:hover,
 #menu-6h .dropdown-item:hover,
@@ -2161,11 +2158,11 @@ h6,
   color: #ffffff;
 }
 #menu-6r .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-6r .dropdown-item,
 #menu-6r .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-6r .link:hover,
 #menu-6r .dropdown-item:hover,
@@ -2245,11 +2242,11 @@ h6,
   color: #ffffff;
 }
 #menu-71 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-71 .dropdown-item,
 #menu-71 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-71 .link:hover,
 #menu-71 .dropdown-item:hover,
@@ -2303,4 +2300,101 @@ h6,
 }
 #footer1-72 P {
   color: #acacac;
+}
+
+
+
+
+#footer1-7f P {
+  color: #acacac;
+}
+#menu-31 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-31 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 18px;
+}
+#menu-31 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-31 .link,
+#menu-31 .dropdown-item {
+  color: #ffffff;
+}
+#menu-31 .link {
+  font-size: 0.95rem;
+}
+#menu-31 .dropdown-item,
+#menu-31 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-31 .link:hover,
+#menu-31 .dropdown-item:hover,
+#menu-31 .link:focus,
+#menu-31 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-31 .link[aria-expanded="true"],
+#menu-31 .dropdown-menu {
+  background: #141414;
+}
+#menu-31 .nav-dropdown-sm .link:focus,
+#menu-31 .nav-dropdown-sm .link:hover,
+#menu-31 .nav-dropdown-sm .dropdown-item:focus,
+#menu-31 .nav-dropdown-sm .dropdown-item:hover {
+  background: #262626!important;
+}
+#menu-31 .navbar,
+#menu-31 .nav-dropdown-sm,
+#menu-31 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-31 .nav-dropdown-sm .dropdown-menu {
+  background: #2e2e2e;
+}
+#menu-31 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-31 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-31 .bg-color.transparent.opened .link:hover,
+#menu-31 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-31 .link[aria-expanded="true"],
+#menu-31 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-31.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-31 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-31 .close-icon::before,
+#menu-31 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-31 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#social-buttons2-7g .mbr-section-title,
+#social-buttons2-7g .btn-social {
+  color: #232323;
+}
+#social-buttons2-7g .mbr-section-title {
+  color: #2e2e2e;
+}
+#msg-box6-7k .mbr-section-title,
+#msg-box6-7k .lead p {
+  color: #fff;
+}
+#msg-box6-7k H3 {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box6-7k P {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 21px;
 }
